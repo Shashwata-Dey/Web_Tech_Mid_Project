@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <fname>shashwata</fname>
+    <uname>shashwata</uname>
+    <pass>shashwata#123</pass>
+    <gender>Male</gender>
+    <email>shashwatazzz@gmail.com</email>
+    <phone>01763455974</phone>
+    <city>Dhaka</city>
+  </user>
+  <user>
+    <fname>Joy</fname>
+    <uname>joy123</uname>
+    <pass>joy#12345</pass>
+    <gender>Male</gender>
+    <email>joy@gmail.com</email>
+    <phone>01852289235</phone>
+    <city>Chittagong</city>
+  </user>
+  <user>
+    <fname>Haati</fname>
+    <uname>haati123</uname>
+    <pass>haati#12345</pass>
+    <gender>Female</gender>
+    <email>haati@gmail.com</email>
+    <phone>01763855181</phone>
+    <city>Dhaka</city>
+  </user>
+</users>

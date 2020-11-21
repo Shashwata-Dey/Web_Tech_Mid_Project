@@ -1,0 +1,195 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: Century Gothic;
+}
+
+
+
+#id1 {
+    background-image: url(../images/back2.jpg);
+    height: 100vh;
+	background-size: cover;
+	background-position:center;
+}
+#id2 {
+    background-image: url(../images/background.jpg);
+    height: 100vh;
+	background-size: cover;
+	background-position:center;
+}
+#id3 {
+    background-image: url(../images/back.jpg);
+    height: 100vh;
+	background-size: cover;
+	background-position:center;
+}
+
+#id4 {
+    background-image: url(../images/back1.jpg);
+    height: 100vh;
+	background-size: cover;
+	background-position:center;
+}
+
+div.logout{
+	max-width:20px;
+	margin-left:1350px;
+	margin-top: 10px;
+	
+}
+
+
+
+.up ul{
+	float: right;
+	height : 30px;
+	list-style-type: none;
+	background-color: #66ffff;
+	margin-top: 25px;
+	
+}
+.up ul li{
+	display: inline-block;
+}
+
+.up ul li a{
+	text-decoration: none;
+	color: #333300;
+	padding: 5px 20px;
+	border: 1px solid #fff;
+	transition: 0.6s ease;
+}
+
+
+.up ul li a:hover{
+    background-color: #fff;
+	color: #000;
+}
+
+.logo img{
+	float: left;
+	margin-left:5px;
+	width: 300px;
+	height: 100px;
+}
+
+div.up{
+	max-width:1150px;
+	margin: auto;
+}
+
+
+div.search{
+	float:right;
+	
+}
+
+
+.left ul{
+	float:left;
+	height : 30px;
+	list-style-type: none;
+	background-color: #000000;
+	margin-top: 40px;
+	margin-left:10px;
+	
+}
+.left ul li{
+	display:grid;
+	list-style-position:inside;
+	height:auto;
+}
+
+.left ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid #fff;
+	transition: 0.6s ease;
+}
+
+
+.left ul li a:hover{
+    background-color: #fff;
+	color: #000;
+}
+div.left{
+	max-width:600px;
+	margin: left;
+	
+}
+
+
+
+.logout ul{
+	float: right;
+	height : 20px;
+	list-style-type: grid;
+	background-color: #ff9900;
+	margin-top: 15px;
+	
+}
+.logout ul li{
+	display: inline-block;
+}
+
+.logout ul li a{
+	text-decoration: none;
+	color: #333300;
+	padding: 5px 20px;
+	border: 1px solid #fff;
+	transition: 0.6s ease;
+}
+.logout ul li a:hover{
+    background-color: #fff;
+	color: #000;
+}
+
+div.profile{
+	padding: 150px 250px 100px 350px;
+	color: #e6e6e6;
+	
+}
+div.cart{
+	padding: 150px 250px 100px 350px;
+	color: #e6e6e6;
+	
+}
+div.loginbutton{
+	padding: 150px 250px 100px 350px;
+	color: #e6e6e6;
+	
+}
+
+div.picture{
+	padding:150px 350px 50px 350px;
+	margin: center;
+	
+}
+div.product1{
+	padding: 120px 400px 100px 300px;
+	color: #e6e6e6;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
