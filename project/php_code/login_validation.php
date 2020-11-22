@@ -39,7 +39,7 @@
 			else{
 				session_start();
 			    $_SESSION["uname"] = $uname;
-			    setcookie("uname",$uname,time() + 60);
+			    setcookie("uname",$uname,time() + 120);
                 header("Location: userhome.php");
 			}
 		}
